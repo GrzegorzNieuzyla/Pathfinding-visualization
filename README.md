@@ -34,6 +34,7 @@ Example:
 111111111111111111111111111111
 ```
 ![](screenshots/paths.gif)
+
 Number on each tile specify length of shortest (based on heuristics) path from start
 
 test_file1:
